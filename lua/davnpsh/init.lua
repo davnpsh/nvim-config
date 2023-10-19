@@ -25,6 +25,9 @@ require("davnpsh.remap")
 -- Basics
 require("davnpsh.basics")
 
+-- Fixes
+require("davnpsh.fixes")
+
 -- packer.nvim
 -- https://github.com/wbthomason/packer.nvim
 require("davnpsh.packer")

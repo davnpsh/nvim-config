@@ -1,0 +1,6 @@
+{
+    "html.filetypes": ["html", "ejs"],
+    "emmet.includeLanguages": {
+        "ejs": "html"
+    }
+}
