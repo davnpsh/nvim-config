@@ -4,7 +4,7 @@
 
 <br>
 
-![example img](./screenshot.png)
+![example img](./imgs/screenshot.png)
 
 </div>
 
