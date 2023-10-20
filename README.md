@@ -88,3 +88,12 @@ For editing markdown.
 
 ### [`neo-tree.nvim`](https://github.com/nvim-neo-tree/neo-tree.nvim)
 Having a tree of folders and files is nice.
+
+# 
+
+<div align="center">
+
+![gnu_linux](./imgs/gnu-linux.gif) [![arch_linux](./imgs/archlinux.gif)](https://archlinux.org/) [![neovim](./imgs/neovim.gif)](https://neovim.io/)
+
+</div>
+
